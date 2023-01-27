@@ -21,7 +21,7 @@ body {
 .app__header {
   display: flex;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   justify-content: space-between;
 }
 
@@ -37,7 +37,7 @@ body {
 .app__right{
   display:flex;
   flex-direction: column;
-  margin: 20px;
+  margin: 10px;
 }
 .app__information > h3 {
   color: #6a5d5d;
